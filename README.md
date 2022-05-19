@@ -1,2 +1,2 @@
 -  Hi, I’m @YingMei7531.
--  I’m a student. I’m currently learning Unity.
+-  I’m a student.
